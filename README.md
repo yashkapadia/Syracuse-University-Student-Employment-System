@@ -13,6 +13,7 @@ employment services to find out answers to various questions like which employer
 total amount spent in international student employment, etc. 
 
 ## Technologies and Concepts
-Technologies Used - MS SQL, MS Access, Visual Basic.
+Technologies Used - MS SQL, MS Access, Visual Basic, Visual Basic for Applications (VBA), Excel macros
 
-Security Concepts - Parametrized Queries and User Input Sanitization to avoid SQL Injection and Visual Basic Scripts to hinder Authentication Bypass.
+Concepts - Database Management, Data mapping, Data Normalization, ER Diagram, ETL, T-SQL, DDL, DML, Stored procedures, triggers, window functions, joins
+
